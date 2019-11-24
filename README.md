@@ -1,5 +1,5 @@
 # Introduction
-This page try to cover system design of all the systems that we see around us on a daily bases. This page covers all the information that is required to develope/implement a system.
+This page try to capture system design of all the famous systems around us. This page also covers all the information that is required to develope/implement a system.
 
 Following are the sections include as part of each system design:
 - Functional goals
