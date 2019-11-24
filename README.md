@@ -15,13 +15,13 @@ Following are the sections include as part of each system design:
 - CAP theorm [https://robertgreiner.com/cap-theorem-revisited/]
 - Hashing
 - Sharding
-- SQl vs No-SQL
 - Distributed Cache
 - Distributed Locking
 - Load Balancer
 - Rate Limiter
 - Circuit Breaker
 - Orchestration Engine
+- SQl vs No-SQL
 
 
 # List of Systems
