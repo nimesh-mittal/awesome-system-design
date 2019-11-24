@@ -26,3 +26,7 @@
 - Document Store
 - Web Crawler
 - News Feed Service
+- Payments Gateway
+- Workflow Engine
+- Rule Engine
+- Coupon/Discount/Offer Service
