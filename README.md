@@ -2,12 +2,12 @@
 This page try to cover system design of all the systems that we see around us on a daily bases. This page covers all the information that is required to develope/implement a system.
 
 Following are the sections include as part of each system design:
-- System goals
-- Non functional goals
-- Capacity estimates
+- Functional goals
+- Non-functional goals
+- Constraints and Capacity estimates
 - System Interfaces
-- High level components and architecture
-- Low level design
+- Component design and architecture
+- Database and Cache schema design
 - Design trade-offs
 - Implementation challenges
 
