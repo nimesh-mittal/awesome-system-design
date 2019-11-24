@@ -12,7 +12,7 @@ Following are the sections include as part of each system design:
 - Implementation challenges
 
 # Guiding Principles
-- CAP theorm
+- CAP theorm [https://robertgreiner.com/cap-theorem-revisited/]
 - Hashing
 - Sharding
 - SQl vs No-SQL
@@ -53,3 +53,9 @@ Following are the sections include as part of each system design:
 - Coupon/Discount/Offer Service
 
 # References
+- https://www.hiredintech.com/classrooms/system-design/lesson/61
+- https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10
+- https://www.flipkart.com/cracking-coding-interview-150-programming-questions-solutions-5th/p/itmdz4pvzbhcv6uv
+- https://www.youtube.com/watch?v=pjNTgULVVf4&list=PLVi1LmRuKQ0NINQfjKLVen7J2lZFL35wP&index=1
+- http://www.lecloud.net/tagged/scalability
+- https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
