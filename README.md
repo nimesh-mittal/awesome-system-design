@@ -58,9 +58,9 @@ Following are the sections include as part of each system design:
 - Coupon/Discount/Offer Service
 
 # References
-- https://github.com/binhnguyennus/awesome-scalability
-- [company engineering blogs](https://github.com/nimesh-mittal/awesome-system-design/blob/master/company-engineering-blogs.md)
+- [Company Engineering Blogs](https://github.com/nimesh-mittal/awesome-system-design/blob/master/company-engineering-blogs.md)
 - [Books on Software Architecture](https://medium.com/@nvashanin/books-in-software-architecture-6ad974e524ce)
+- https://github.com/binhnguyennus/awesome-scalability
 - https://www.hiredintech.com/classrooms/system-design/lesson/61
 - https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10
 - https://www.flipkart.com/cracking-coding-interview-150-programming-questions-solutions-5th/p/itmdz4pvzbhcv6uv
