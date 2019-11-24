@@ -18,6 +18,11 @@ Following are the sections include as part of each system design:
 - SQl vs No-SQL
 - Distributed Cache
 - Distributed Locking
+- Load Balancer
+- Rate Limiter
+- Circuit Breaker
+- Orchestration Engine
+
 
 # List of Systems
 - Age of Empires
