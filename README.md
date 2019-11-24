@@ -1,8 +1,8 @@
 # List of Systems
-1. Age of Empires
-2. Taxi Booking System
-3. Event Booking System
-4. Instant Messaging System
+Age of Empires
+Taxi Booking System
+Event Booking System
+Instant Messaging System
 Movie Streaming System
 Live Event Streaming System
 Collaborative Document Editing System
