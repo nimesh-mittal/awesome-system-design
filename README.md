@@ -1,6 +1,12 @@
 # Introduction
 
 # Guiding Principles
+- CAP theorm
+- Hashing
+- Sharding
+- SQl vs No-SQL
+- Distributed Cache
+- Distributed Locking
 
 # List of Systems
 - Age of Empires
@@ -34,3 +40,5 @@
 - Workflow Engine
 - Rule Engine
 - Coupon/Discount/Offer Service
+
+# References
