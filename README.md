@@ -1,3 +1,7 @@
+# Introduction
+
+# Guiding Principles
+
 # List of Systems
 - Age of Empires
 - Taxi Booking System
