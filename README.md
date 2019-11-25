@@ -1,7 +1,7 @@
 # Introduction
-This page try to capture system design of all the famous systems around us. This page also covers all the information that is required to develope/implement a system.
+This page covers the system design of all the famous systems around us. It aims to provide enough information so that one can write a basic version of it.
 
-Following are the sections include as part of each system design:
+Following are the sections included as part of each system design:
 - Functional goals
 - Non-functional goals
 - Constraints and Capacity estimates
