@@ -47,12 +47,12 @@ Following are the sections include as part of each system design:
 | News Feed Service| Facebook News Feeds |
 | Fortune wheel system| |
 | Delayed worker queue| |
-| Product Search System | Guided search, Faceted Search, Trending Search|
+| Product Search System | Amazon.com | Guided search, Faceted Search, Trending Search |
 | Document Search System | Google Search |
 | Recommendation System| Netflix recommendation |
 | Bigdata Analytics Platform||
 | Serverless Functions||
-| URL Shortening Service||
+| URL Shortening Service| Tinyurl |
 | Document Store||
 | Web Crawler||
 | Payments Gateway||
