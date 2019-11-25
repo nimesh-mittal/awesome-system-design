@@ -25,37 +25,40 @@ Following are the sections include as part of each system design:
 
 
 # List of Systems
-- [Age of Empires](https://github.com/nimesh-mittal/awesome-system-design/blob/master/systems/age_of_empires.md)
-- Taxi Booking System
-- Movie/Events Booking System
-- Instant Messaging System
-- Movie Streaming System
-- Live Event Streaming System
-- Collaborative Document Editing System
-- Question and Answer Platform
-- Online coding platform
-- Online learning platform
-- Photo sharing system
-- Delayed worker queue
-- Polling and Survey platform
-- Blogging platform
-- Micro Blogging Platform
-- Fortune wheel system
-- E-commerce platform
-- Product Search System - Guided search, Faceted Search, Trending Search
-- Document Search System - Google Search
-- Recommendation System
-- Bigdata Analytics Platform
-- Serverless Functions
-- Social networking Platform
-- URL Shortening Service
-- Document Store
-- Web Crawler
-- News Feed Service
-- Payments Gateway
-- Workflow Engine
-- Rule Engine
-- Coupon/Discount/Offer Service
+| System | Examples | Notes |
+| ------------- |:-------------:| -----:|
+| [Age of Empires](https://github.com/nimesh-mittal/awesome-system-design/blob/master/systems/age_of_empires.md) |
+| Taxi Booking System | Uber, Ola, Lyft |
+| Movie/Events Booking System |BookMyShow, Booking.com|
+| Instant Messaging System|Facebook Messenger, WhatsApp|
+| Movie Streaming System|Netflix, Amazon Prime Videos|
+| Video sharing System | Youtube |
+| Live Event Streaming System| Hotstar |
+| Collaborative Document Editing System| Google Docs |
+| Question and Answer Platform| Quora |
+| Online coding platform| HackerRank |
+| Online learning platform| Coursera |
+| Photo sharing system| Instagram |
+| Polling and Survey platform| SurveyMoney |
+| Blogging platform| Medium |
+| Micro Blogging Platform| Twitter |
+| E-commerce platform| Amazon.com, Flipkart |
+| Social networking Platform| Facebook |
+| News Feed Service| Facebook News Feeds |
+| Fortune wheel system| |
+| Delayed worker queue| |
+| Product Search System | Guided search, Faceted Search, Trending Search|
+| Document Search System | Google Search |
+| Recommendation System| Netflix recommendation |
+| Bigdata Analytics Platform||
+| Serverless Functions||
+| URL Shortening Service||
+| Document Store||
+| Web Crawler||
+| Payments Gateway||
+| Workflow Engine||
+| Rule Engine||
+| Coupon/Discount/Offer Service||
 
 # References
 - [Company Engineering Blogs](https://github.com/nimesh-mittal/awesome-system-design/blob/master/company-engineering-blogs.md)
